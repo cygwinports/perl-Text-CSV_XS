@@ -1,0 +1,4 @@
+CPAN_AUTHOR=hmbrand
+inherit perl
+
+SRC_URI=${SRC_URI%.tar.gz}.tgz
